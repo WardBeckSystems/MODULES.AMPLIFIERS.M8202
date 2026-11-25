@@ -59,7 +59,7 @@ A
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8202/PHOTOS/1995 - M8202 - Remote sesitivity DA 001.jpg",
+ "file": "Modules/AMPLIFIERS/M8202/MANUALS/1995 - M8202 - Remote sesitivity DA 001.jpg",
  "sha256": "b3c046afee04e610889732c18b046384c030e2484d763edc3329381de0b8d0d5",
  "kind": "module",
  "models": [
