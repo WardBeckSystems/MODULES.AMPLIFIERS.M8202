@@ -1,5 +1,5 @@
 # 1995 - M8202 - Remote sesitivity DA 002.jpg
-Wiki page: [M8202](../../../PAGES/M8202.md)
+Wiki page: [M8202](../../../../PAGES/M8202.md)
 
 
 - **Year:** 1995 (module estimate (family))
@@ -53,7 +53,7 @@ Ward-Beck Systems Ltd.
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8202/1995 - M8202 - Remote sesitivity DA 002.jpg",
+ "file": "Modules/AMPLIFIERS/M8202/PHOTOS/1995 - M8202 - Remote sesitivity DA 002.jpg",
  "sha256": "a7033fa38c745a76a0d86d6fa6b46c9224044868123e54d755a863532900fc81",
  "kind": "module",
  "models": [

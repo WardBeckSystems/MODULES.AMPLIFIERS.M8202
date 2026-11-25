@@ -1,5 +1,5 @@
 # 1995 - M8202 - Remote sesitivity DA 003.jpg
-Wiki page: [M8202](../../../PAGES/M8202.md)
+Wiki page: [M8202](../../../../PAGES/M8202.md)
 
 
 - **Year:** 1995 (module estimate (family))
@@ -24,7 +24,7 @@ IS~u
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M8202/1995 - M8202 - Remote sesitivity DA 003.jpg",
+ "file": "Modules/AMPLIFIERS/M8202/PHOTOS/1995 - M8202 - Remote sesitivity DA 003.jpg",
  "sha256": "4dbe9c861d0ba47c01add03a6048d1154a67c887fb104f418f7c8cf1f004b239",
  "kind": "module",
  "models": [

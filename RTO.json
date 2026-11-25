@@ -1,0 +1,138 @@
+{
+ "code": "M8202",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "contacts": "15 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": "M8202A",
+ "pins": [
+  {
+   "pin": "4",
+   "signal": "TWO DIRECT ACTIVELY BALANCED OUTPUTS",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "TWO DIRECT ACTIVELY BALANCED OUTPUTS",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  },
+  {
+   "pin": "9",
+   "signal": "REMOTE LINE INPUT",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  },
+  {
+   "pin": "13",
+   "signal": "+/-22 VOLT DC SUPPLY VOLTAGE",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "+/-22 VOLT DC SUPPLY VOLTAGE",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  },
+  {
+   "pin": "D",
+   "signal": "TWO DIRECT ACTIVELY BALANCED OUTPUTS",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  },
+  {
+   "pin": "E",
+   "signal": "TWO DIRECT ACTIVELY BALANCED OUTPUTS",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  },
+  {
+   "pin": "K",
+   "signal": "REMOTE LINE INPUT",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  },
+  {
+   "pin": "M",
+   "signal": "+1 VOLT TO -4 VOLTS",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  },
+  {
+   "pin": "P",
+   "signal": "+/-22 VOLT DC SUPPLY VOLTAGE",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  },
+  {
+   "pin": "S",
+   "signal": "+/-22 VOLT DC SUPPLY VOLTAGE",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "prose",
+   "file": "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Products/8200 SERIES/M8202A/1995 - M8202A - OUTPUT LEVEL 0 DBU TO +8 DBU NOMINAL - PARTS LIST.wp"
+ ]
+}
