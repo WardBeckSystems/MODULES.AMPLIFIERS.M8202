@@ -1,5 +1,5 @@
 # 1995 - M8202 - Remote sesitivity DA 001.jpg
-Wiki page: [M8202](../../../../PAGES/M8202.md)
+Wiki page: [M8202](../)
 
 
 - **Year:** 1995 (module estimate (family))

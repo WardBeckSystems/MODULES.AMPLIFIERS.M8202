@@ -1,6 +1,6 @@
 # M8202 Remote Sensitivity Distribution Amplifier · Amplifiers
 
-Ward-Beck Systems M8202, 1995|28. Wiki page: [M8202 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M8202.html)
+Ward-Beck Systems M8202, 1995|28. Wiki page: [M8202 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M8202-Remote-Sensitivity-Distribution-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
